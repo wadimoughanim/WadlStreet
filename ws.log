@@ -1,0 +1,57 @@
+2024-11-04 11:54:05,196 - INFO - DictionaryOrderBook instance created
+2024-11-04 11:54:05,196 - INFO - DictionaryOrderBook added bid order: Order(id=1, price=100, quantity=5, side=buy)
+2024-11-04 11:54:05,197 - INFO - DictionaryOrderBook matching orders: Bids=[100], Asks=[]
+2024-11-04 11:54:05,197 - INFO - DictionaryOrderBook added ask order: Order(id=2, price=90, quantity=5, side=sell)
+2024-11-04 11:54:05,197 - INFO - DictionaryOrderBook matching orders: Bids=[100], Asks=[90]
+2024-11-04 11:54:05,197 - INFO - DictionaryOrderBook updated bid order: Order(id=1, price=100, quantity=0, side=buy)
+2024-11-04 11:54:05,197 - INFO - DictionaryOrderBook updated ask order: Order(id=2, price=90, quantity=0, side=sell)
+2024-11-04 11:54:05,197 - INFO - DictionaryOrderBook added bid order: Order(id=3, price=110, quantity=5, side=buy)
+2024-11-04 11:54:05,198 - INFO - DictionaryOrderBook matching orders: Bids=[110], Asks=[]
+2024-11-04 11:54:05,198 - INFO - DictionaryOrderBook added ask order: Order(id=4, price=95, quantity=5, side=sell)
+2024-11-04 11:54:05,198 - INFO - DictionaryOrderBook matching orders: Bids=[110], Asks=[95]
+2024-11-04 11:54:05,198 - INFO - DictionaryOrderBook updated bid order: Order(id=3, price=110, quantity=0, side=buy)
+2024-11-04 11:54:05,198 - INFO - DictionaryOrderBook updated ask order: Order(id=4, price=95, quantity=0, side=sell)
+2024-11-04 11:54:50,587 - INFO - DictionaryOrderBook instance created
+2024-11-04 11:54:50,587 - INFO - DictionaryOrderBook added bid order: Order(id=1, price=90, quantity=5, side=buy)
+2024-11-04 11:54:50,587 - INFO - DictionaryOrderBook matching orders: Bids=[90], Asks=[]
+2024-11-04 11:54:50,588 - INFO - DictionaryOrderBook added ask order: Order(id=2, price=100, quantity=5, side=sell)
+2024-11-04 11:54:50,588 - INFO - DictionaryOrderBook matching orders: Bids=[90], Asks=[100]
+2024-11-04 11:54:50,588 - INFO - DictionaryOrderBook added bid order: Order(id=3, price=95, quantity=10, side=buy)
+2024-11-04 11:54:50,588 - INFO - DictionaryOrderBook matching orders: Bids=[95, 90], Asks=[100]
+2024-11-04 11:54:50,588 - INFO - DictionaryOrderBook added ask order: Order(id=4, price=95, quantity=5, side=sell)
+2024-11-04 11:54:50,588 - INFO - DictionaryOrderBook matching orders: Bids=[95, 90], Asks=[95, 100]
+2024-11-04 11:54:50,588 - INFO - DictionaryOrderBook updated bid order: Order(id=3, price=95, quantity=5, side=buy)
+2024-11-04 11:54:50,588 - INFO - DictionaryOrderBook updated ask order: Order(id=4, price=95, quantity=0, side=sell)
+2024-11-04 11:57:16,525 - INFO - DictionaryOrderBook instance created
+2024-11-04 11:57:16,525 - INFO - DictionaryOrderBook added bid order: Order(id=1, price=90, quantity=5, side=buy)
+2024-11-04 11:57:16,525 - INFO - DictionaryOrderBook matching orders: Bids=[90], Asks=[]
+2024-11-04 11:57:16,526 - INFO - DictionaryOrderBook added ask order: Order(id=2, price=100, quantity=5, side=sell)
+2024-11-04 11:57:16,526 - INFO - DictionaryOrderBook matching orders: Bids=[90], Asks=[100]
+2024-11-04 11:57:16,526 - INFO - DictionaryOrderBook added bid order: Order(id=3, price=95, quantity=10, side=buy)
+2024-11-04 11:57:16,526 - INFO - DictionaryOrderBook matching orders: Bids=[95, 90], Asks=[100]
+2024-11-04 11:57:16,526 - INFO - DictionaryOrderBook added ask order: Order(id=4, price=95, quantity=5, side=sell)
+2024-11-04 11:57:16,526 - INFO - DictionaryOrderBook matching orders: Bids=[95, 90], Asks=[95, 100]
+2024-11-04 11:57:16,526 - INFO - DictionaryOrderBook updated bid order: Order(id=3, price=95, quantity=5, side=buy)
+2024-11-04 11:57:16,526 - INFO - DictionaryOrderBook updated ask order: Order(id=4, price=95, quantity=0, side=sell)
+2024-11-04 11:59:07,087 - INFO - DictionaryOrderBook instance created
+2024-11-04 11:59:07,088 - INFO - DictionaryOrderBook added bid order: Order(id=1, price=90, quantity=5, side=buy)
+2024-11-04 11:59:07,088 - INFO - DictionaryOrderBook matching orders: Bids=[90], Asks=[]
+2024-11-04 11:59:07,088 - INFO - DictionaryOrderBook added ask order: Order(id=2, price=100, quantity=5, side=sell)
+2024-11-04 11:59:07,088 - INFO - DictionaryOrderBook matching orders: Bids=[90], Asks=[100]
+2024-11-04 11:59:07,088 - INFO - DictionaryOrderBook added bid order: Order(id=3, price=95, quantity=10, side=buy)
+2024-11-04 11:59:07,089 - INFO - DictionaryOrderBook matching orders: Bids=[95, 90], Asks=[100]
+2024-11-04 11:59:07,089 - INFO - DictionaryOrderBook added ask order: Order(id=4, price=95, quantity=5, side=sell)
+2024-11-04 11:59:07,089 - INFO - DictionaryOrderBook matching orders: Bids=[95, 90], Asks=[95, 100]
+2024-11-04 11:59:07,089 - INFO - DictionaryOrderBook updated bid order: Order(id=3, price=95, quantity=5, side=buy)
+2024-11-04 11:59:07,089 - INFO - DictionaryOrderBook updated ask order: Order(id=4, price=95, quantity=0, side=sell)
+2024-11-04 13:01:14,449 - INFO - DictionaryOrderBook instance created
+2024-11-04 13:01:14,449 - INFO - DictionaryOrderBook added bid order: Order(id=1, price=90, quantity=5, side=buy)
+2024-11-04 13:01:14,449 - INFO - Matching orders: Bids=[90], Asks=[]
+2024-11-04 13:01:14,449 - INFO - DictionaryOrderBook added ask order: Order(id=2, price=100, quantity=5, side=sell)
+2024-11-04 13:01:14,450 - INFO - Matching orders: Bids=[90], Asks=[100]
+2024-11-04 13:01:14,450 - INFO - DictionaryOrderBook added bid order: Order(id=3, price=95, quantity=10, side=buy)
+2024-11-04 13:01:14,450 - INFO - Matching orders: Bids=[95, 90], Asks=[100]
+2024-11-04 13:01:14,450 - INFO - DictionaryOrderBook added ask order: Order(id=4, price=95, quantity=5, side=sell)
+2024-11-04 13:01:14,450 - INFO - Matching orders: Bids=[95, 90], Asks=[95, 100]
+2024-11-04 13:01:14,450 - INFO - Bid order partially filled: Order(id=3, price=95, quantity=5, side=buy)
+2024-11-04 13:01:14,450 - INFO - Ask order filled: Order(id=4, price=95, quantity=0, side=sell)
